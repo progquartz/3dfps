@@ -11,6 +11,7 @@ using namespace std;
 
 class Bullet {
 public:
+	//WA!! SANS!
 	CircleShape shape;
 	Vector2f currvelocity;
 	float maxSpeed;
