@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Project1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  3dfps.cpp
+c:\users\yong0\documents\visual studio 2015\projects\sfmlpractice\3dfps\project1\3dfps.cpp(30): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Project1.vcxproj -> C:\Users\yong0\Documents\Visual Studio 2015\Projects\sfmlpractice\3dfps\Debug\ppap.exe
+  Project1.vcxproj -> C:\Users\yong0\Documents\Visual Studio 2015\Projects\sfmlpractice\3dfps\Debug\ppap.pdb (Partial PDB)
